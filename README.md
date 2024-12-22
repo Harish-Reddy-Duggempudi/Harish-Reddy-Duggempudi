@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQHnlAT6SAvsIQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731592199617?e=1740614400&v=beta&t=E06q2tTcncq6h8qOVLu3fGxxOXPF3MboX8DzuRASd0A)
+![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQHnlAT6SAvsIQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731592199617?e=1740614400&v=beta&t=E06q2tTcncq6h8qOVLu3fGxxOXPF3MboX8DzuRASd0A)
 <h1 align="center">Hi 👋, I'm Harish Reddy Duggrmpudi</h1>
 <h3 align="center">Microsoft Learn Student Ambassador</h3>
 
@@ -42,3 +42,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harish-reddy-duggempudi&show_icons=true&locale=en" alt="harish-reddy-duggempudi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harish-reddy-duggempudi&" alt="harish-reddy-duggempudi" /></p>
+
