@@ -1,9 +1,10 @@
+[![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQHnlAT6SAvsIQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731592199617?e=1740614400&v=beta&t=E06q2tTcncq6h8qOVLu3fGxxOXPF3MboX8DzuRASd0A)
 <h1 align="center">Hi 👋, I'm Harish Reddy Duggrmpudi</h1>
-<h3 align="center">Crafting Code, Cultivating Community, and Inspiring Innovation</h3>
+<h3 align="center">Microsoft Learn Student Ambassador</h3>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harish-reddy-duggempudi&label=Profile%20views&color=0e75b6&style=flat" alt="harish-reddy-duggempudi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harish-reddy-duggempudi" alt="harish-reddy-duggempudi" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
