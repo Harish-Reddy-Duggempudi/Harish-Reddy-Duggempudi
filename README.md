@@ -7,6 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harish-reddy-duggempudi&label=Profile%20views&color=0e75b6&style=flat" alt="harish-reddy-duggempudi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mr_harish_reddy" target="blank"><img src="https://img.shields.io/twitter/follow/mr_harish_reddy?logo=twitter&style=for-the-badge" alt="mr_harish_reddy" /></a> </p>
+
 - 🔭 I’m currently working on **empowering student communities, building innovative projects with Python and AI, and sharing tech insights through blogs and webinars**
 
 - 🌱 I’m currently learning **advanced AI techniques, cloud computing with Microsoft Azure, and best practices for scaling open-source contributions.**
