@@ -67,4 +67,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Harish-Reddy-Duggempudi&show_icons=true&locale=en" alt="Harish-Reddy-Duggempudi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harish-Reddy-Duggempudi&" alt="Harish-Reddy-Duggempudi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harish-reddy-duggempudi&" alt="harish-reddy-duggempudi" /></p>
