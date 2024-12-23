@@ -1,4 +1,5 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQFO1DjwzDtGkg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1734961682750?e=1740614400&v=beta&t=oTzJbgV6177w6b3Hesy-UsxpFW4lJyjSJ-KKtkY1E7s)
+
 <h1 align="center">Hi 👋, I'm Harish Reddy Duggempudi</h1>
 <h3 align="center">Microsoft Learn Student Ambassador</h3>
 
@@ -12,7 +13,7 @@
 
 - 🌱 I’m currently learning **advanced AI techniques, cloud computing with Microsoft Azure, and best practices for scaling open-source contributions.**
 
-- 👯 I’m looking to collaborate on **pen-source projects, community events, and innovative solutions in AI, data science, and web development**
+- 👯 I’m looking to collaborate on **open-source projects, community events, and innovative solutions in AI, data science, and web development**
 
 - 🤝 I’m looking for help with **contributing to advanced open-source AI projects and exploring innovative applications of data science in real-world scenarios.**
 
@@ -31,15 +32,39 @@
 <a href="https://linkedin.com/in/harish-reddy-duggempudi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harish-reddy-duggempudi/" height="30" width="40" /></a>
 <a href="https://fb.com/harishreddy.duggempudi.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harishreddy.duggempudi.1" height="30" width="40" /></a>
 <a href="https://instagram.com/_mr_harish_reddy_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mr_harish_reddy_/" height="30" width="40" /></a>
-<a href="https://medium.com//@harishreddy2k05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="/@harishreddy2k05" height="30" width="40" /></a>
+<a href="https://medium.com/@harishreddy2k05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@harishreddy2k05" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="left"> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a> 
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harish-reddy-duggempudi&show_icons=true&locale=en&layout=compact" alt="harish-reddy-duggempudi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Harish-Reddy-Duggempudi&show_icons=true&locale=en&layout=compact" alt="Harish-Reddy-Duggempudi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harish-reddy-duggempudi&show_icons=true&locale=en" alt="harish-reddy-duggempudi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Harish-Reddy-Duggempudi&show_icons=true&locale=en" alt="Harish-Reddy-Duggempudi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harish-reddy-duggempudi&" alt="harish-reddy-duggempudi" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Harish-Reddy-Duggempudi&" alt="Harish-Reddy-Duggempudi" /></p>
