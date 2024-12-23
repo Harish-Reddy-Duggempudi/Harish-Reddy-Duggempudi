@@ -63,3 +63,10 @@
   </a> 
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harish-reddy-duggempudi&show_icons=true&locale=en&layout=compact" alt="harish-reddy-duggempudi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harish-reddy-duggempudi&show_icons=true&locale=en" alt="harish-reddy-duggempudi" /></p>
+
+<div style="text-align: center;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=harish-reddy-duggempudi" alt="harish-reddy-duggempudi" />
+</div>
