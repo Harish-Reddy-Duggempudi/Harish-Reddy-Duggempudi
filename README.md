@@ -68,8 +68,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harish-reddy-duggempudi&show_icons=true&locale=en" alt="harish-reddy-duggempudi" /></p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harish-reddy-duggempudi" alt="harish-reddy-duggempudi" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harish-reddy-duggempudi" alt="GitHub Streak Stats" />
 </p>
+
+
 
 
 
